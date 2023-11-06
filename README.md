@@ -11,10 +11,15 @@ cat >PackAnimals.txt
 horse camel donkey
 
  mkdir animals
+ 
  mv HumanFriends.txt animals/
+ 
  cd animals/
+ 
  ls
+ 
  sudo apt install mysql-server mysql-client
+ 
  sudo systemctl status mysql
 
  wget https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-java_8.0.26-1ubuntu18.04_all.deb -P ~/Загрузки
