@@ -1,0 +1,1000 @@
+  392  sudo apt update
+  393  sudo apt install docker-ce
+  394  clear
+  395  sudo systemctl status docker
+  396  docker-version
+  397  sudo docker-version
+  398  docker version
+  399  python version
+  400  python –version
+  401  python --version
+  402  python3 --version
+  403  python —version
+  404  /bin/python3 /home/evgeniy/dev/FlaskBootCamp/main.py
+  405  pip3 install flask
+  406  cd PycharmProjects/pythonProject/
+  407  ll
+  408  pip install flask
+  409  clear
+  410  clear
+  411  clear
+  412  pip3 install flask
+  413  clear
+  414  ll
+  415  exit
+  416  ll
+  417  ls
+  418  git status
+  419  git init
+  420  ll
+  421  ls
+  422  git status
+  423  git add main.py
+  424  git status
+  425  git add .gitignore 
+  426  git status
+  427  git commit -m "dfgdgn"
+  428  cd ../
+  429  deactivate
+  430  cd PycharmProjects/
+  431  git clone https://github.com/EvgeniyElmanov/test1.git
+  432  pip install flask
+  433  pip install flask
+  434  pip3 install flask
+  435  sudo apt install python3-pip
+  436  pip 3 install flask
+  437  pip3 install flask
+  438  /bin/python3 /home/evgeniy/dev/FlaskBootCamp/main.py
+  439  python main.py
+  440  python3 main.py
+  441  /bin/python3 /home/evgeniy/dev/FlaskBootCamp/main.py
+  442  python3 -m venv .folder
+  443  /home/evgeniy/dev/FlaskBootCamp/.folder/bin/python /home/evgeniy/dev/FlaskBootCamp/main.py
+  444  python3 -mvenv .folder
+  445  python3 -m venv .folder
+  446  /home/evgeniy/dev/FlaskBootCamp/.folder/bin/python /home/evgeniy/dev/FlaskBootCamp/main.py
+  447  cd..
+  448  cd ../
+  449  git clone https://github.com/EvgeniyElmanov/Python_Home_Work.git
+  450  git clone https://github.com/EvgeniyElmanov/Python_Home_Work.git
+  451  git clone https://github.com/EvgeniyElmanov/Python_Home_Work.git
+  452  cd ../
+  453  cd PycharmProjects/
+  454  git clone https://github.com/EvgeniyElmanov/Python_Home_Work.git
+  455  /home/evgeniy/dev/FlaskBootCamp/.folder/bin/python /home/evgeniy/dev/FlaskBootCamp/main.py
+  456  gpg --list-secret-keys --keyid-format=long
+  457  ls -al ~/.ssh
+  458  ls
+  459  cd ~/.ssh
+  460  ls
+  461  ssh-keygen -o
+  462  cat .ssh/id_rsa
+  463  which python3
+  464  sudo apt-get update
+  465  sudo apt-get install --reinstall dbus
+  466  tar xzf pycharm-*.tar.gz -C <new_archive_folder>
+  467  tar xzf Загрузки/pycharm-community-2023.1.tar.gz -C Загрузки/pycharm 
+  468  tar xzf Загрузки/pycharm-community-2023.1.tar.gz -C Загрузки/
+  469  sh Загрузки/pycharm-community-2023.1/bin/pycharm.sh 
+  470  which git
+  471  which git
+  472  git version
+  473  git version
+  474  gpgconf
+  475  echo GETPIN | pinentry
+  476  git config gpg.program
+  477  gpg.exe
+  478  where.exe gpg
+  479  git version
+  480  java --version
+  481  sudo apt-get update
+  482  sudo apt-get install default-jdk
+  483  java -version
+  484  export JAVA_HOME=/usr/lib/jvm/default-java
+  485  export PATH=$PATH:$JAVA_HOME/bin
+  486  echo $JAVA_HOME
+  487  sudo apt-get install default-jdk
+  488  java -version
+  489  sudo apt-get remove openjdk-<version>-jdk
+  490  sudo apt-get remove openjdk-<11.0.18>-jdk
+  491  sudo apt-get remove openjdk-11.0.18-jdk
+  492  sudo apt-get remove openjdk 11.0.18 jdk
+  493  sudo apt-get remove openjdk-11-jdk
+  494  sudo apt-get update
+  495  sudo apt-get install wget gnupg
+  496  wget -qO - https://adoptopenjdk.jfrog.io/adoptopenjdk/api/gpg/key/public | sudo apt-key add -
+  497  sudo add-apt-repository --yes https://adoptopenjdk.jfrog.io/adoptopenjdk/deb/
+  498  sudo apt-get update
+  499  sudo apt-get install adoptopenjdk-20-hotspot
+  500  java -version
+  501  sudo apt-get install adoptopenjdk-20-hotspot
+  502  sudo apt-get clean
+  503  sudo apt-get update
+  504  java -version
+  505  sudo apt-get install adoptopenjdk-20-hotspot
+  506  apt-cache search openjdk
+  507  sudo apt install openjdk-17-jre openjdk-17-jdk
+  508  java -version
+  509  python --version
+  510  python3 --version
+  511  git pull https://github.com/EvgeniyElmanov/Home_work_JAVA.git
+  512  git clone https://github.com/EvgeniyElmanov/Home_work_JAVA.git
+  513  2
+  514  1+2
+  515  2*2
+  516  git status
+  517  git add task_5.java 
+  518  git add task_6.java 
+  519  git add task_7.java 
+  520  git status
+  521  git commit -m "add task_5,6,7
+  522  q
+  523  git status
+  524  111
+  525  git commit -m "add task_5,6,7"
+  526  git push
+  527  git status
+  528  git add Home_work_2/
+  529  git add result.txt 
+  530  git status
+  531  git commit -m "add task_1,2,3,4,5"
+  532  git push
+  533  git status
+  534  git add Home_Work_3/
+  535  git status
+  536  git push
+  537  git commit -m "add task_1, 2, 3, 4, 5"
+  538  git push
+  539  java version
+  540  java --version
+  541  git status
+  542  git add Home_Work_5/
+  543  git commit -m "add task_1, 2, 3, 4"
+  544  git push
+  545  git status
+  546  git status
+  547  git add Home_Work_4/
+  548  git status
+  549  git commit -m "add LinkedList, task_1, 2, 3,"
+  550  git push
+  551  git status
+  552  git add Home_work_6/
+  553  git status
+  554  git commit -m "add Home_work_6"
+  555  git push
+  556  git remote add origin https://github.com/EvgeniyElmanov/web_tehnology_Home_Work.git
+  557  git branch -M main
+  558  git push -u origin main
+  559  git status
+  560  git add 1_protocol.jpg 2_analyze.txt
+  561  git status
+  562  git add 3_after.jpg 3_before.jpg 4_proto.jpg 
+  563  git status
+  564  git commit -m "add home work_1"
+  565  git push
+  566  git remote add origin https://github.com/EvgeniyElmanov/web_tehnology_Home_Work.git
+  567  git branch -M main
+  568  git push -u origin main
+  569  git remote add origin https://github.com/EvgeniyElmanov/web_tehnology_Home_Work.git
+  570  gid pull https://github.com/EvgeniyElmanov/web_tehnology_Home_Work.git
+  571  git pull https://github.com/EvgeniyElmanov/web_tehnology_Home_Work.git
+  572  git pull https://github.com/ЕвгенийЭльманов/web_tehnology_Home_Work.git
+  573  git pull https://github.com/EvgeniyElmanov/web_tehnology_Home_Work.git
+  574  git clone git@github.com:EvgeniyElmanov/web_tehnology_Home_Work.git
+  575  cd..
+  576  cd./
+  577  cd ../
+  578  git clone git@github.com:EvgeniyElmanov/web_tehnology_Home_Work.git
+  579  git status
+  580  git add task_2/
+  581  git status
+  582  git commit -m "add taks_2"
+  583  git push
+  584  cd ..//
+  585  git clone git@github.com:EvgeniyElmanov/OOP_java.git
+  586  git status
+  587  git add Home_work/
+  588  git status
+  589  git commit -m "add Product"
+  590  git push
+  591  git status
+  592  git add seminar_1
+  593  git add seminar_2
+  594  git add seminar_3
+  595  git status
+  596  git commit -m "add seminar_3"
+  597  git push
+  598  git status
+  599  git add seminar_4
+  600  git status
+  601  git commit -m "add index.php"
+  602  git push
+  603  git status
+  604  git add seminar_4/my.sql 
+  605  git status
+  606  git commit -m "add my.sql"
+  607  git push
+  608  /home/evgeniy/dev/OOP_java
+  609  cd h
+  610  cd / h
+  611  cd./
+  612  cd.
+  613  cd//
+  614  cd..
+  615  cd.
+  616  git status
+  617  git add H
+  618  git add HomeWork_2/
+  619  git status
+  620  git commit -m hm2"
+  621  git commit -m "hm2"
+  622  q
+  623  q
+  624  git status
+  625  git add HomeWork_3/
+  626  git commit -m "add hm3"
+  627  git push
+  628  git status
+  629  git commit -m "add hm2"
+  630  git push
+  631  git status
+  632  git add ./
+  633  git status
+  634  git commit -m "add seminar_5"
+  635  git push
+  636  git status
+  637  git add 2.json 
+  638  git commit -m "add seminar_5"
+  639  git push
+  640  git status
+  641  git add HomeWork_4/
+  642  git status
+  643  git commit -m "add Homework_4"
+  644  git push
+  645  git status
+  646  git add HomeWork_5/
+  647  git status
+  648  git commit -m "add Homework_5"
+  649  git push
+  650  мам
+  651  git status
+  652  git add src/
+  653  git status
+  654  git commit -m "add Homework_6, 7"
+  655  git push
+  656  sudo apt update
+  657  clear
+  658  sudo apt install mc
+  659  mc
+  660  sudo apt install openssh-server 
+  661  clear
+  662  ip a
+  663  systemctl status ssh
+  664  ssh evgeniy@ASUS127.0.0.1
+  665  ssh evgeniy@127.0.0.1
+  666  sudo su
+  667  ls -al
+  668  cd/proc
+  669  cd /proc
+  670  ls al
+  671  ls -al
+  672  cat cpuinfo
+  673  cd /dev
+  674  ls -al
+  675  cd /run
+  676  ls -al
+  677  cd
+  678  ls
+  679  pwd
+  680  ls --help
+  681  pwd
+  682  mkdir test
+  683  ls -al
+  684  cd /test
+  685  cd ~/test/
+  686  ll
+  687  cat > testfile
+  688  ll
+  689  cp testfile test2
+  690  ll
+  691  cd ..
+  692  ll
+  693  cp test test2
+  694  cp -r  test test2
+  695  ll
+  696  cp test2
+  697  ll
+  698  cp test2
+  699  cd test2
+  700  ll
+  701  cd
+  702  mv test test3
+  703  ll
+  704  cd test2
+  705  ll
+  706  rm test2
+  707  ll
+  708  cd
+  709  rm -rf test2
+  710  ll
+  711  rm -rf /home/evgeniy/test2
+  712  ll
+  713  cd test3/
+  714  ll
+  715  rm test2
+  716  ll
+  717  rm testfile 
+  718  ll
+  719  cd
+  720  ll
+  721  rm test3/
+  722  rm -rf /home/evgeniy/test3
+  723  ll
+  724  rm -rf /home/evgeniy/Makgonigal_Sila-voli-Kak-razvit-i-ukrepit.R5j7IA.313552.fb2 
+  725  ll
+  726  cd /
+  727  ll
+  728  cd /home/evgeniy/
+  729  vim
+  730  sudo apt install vim 
+  731  vim
+  732  nano
+  733  vim
+  734  nano
+  735  apt-get remove vim -y
+  736  apt-get remove vim
+  737  sudo apt-get remove vim
+  738  vim
+  739  nano
+  740  ls
+  741  ll
+  742  clear
+  743  cd help
+  744  clear
+  745  ll
+  746  cd snap
+  747  cd /snap
+  748  cd dev/
+  749  cd ..
+  750  cd
+  751  cd /etc/
+  752  ll
+  753  nano wgetrc 
+  754  cd ..
+  755  ll
+  756  cd
+  757  clear
+  758  mkdir TEST
+  759  cd TEST/
+  760  ll
+  761  cd
+  762  ll
+  763  cd TEST/
+  764  clear
+  765  touch file
+  766  ll
+  767  nano file 
+  768  cat file 
+  769  cd
+  770  ll
+  771  rm dir TEST/
+  772  rmdir TEST/
+  773  rmdir -r TEST/
+  774  cd TEST/
+  775  rm file 
+  776  ll
+  777  cd
+  778  rmdir TEST/
+  779  ll
+  780  clear
+  781  cat > TEST_1
+  782  cat > TEST_2
+  783  cat TEST_2
+  784  rm TEST_2
+  785  cat TEST_2
+  786  cat > TEST_2
+  787  cat TEST_2
+  788  cat TEST_1 TEST_2 > TEST_3
+  789  cat TEST_3
+  790  mv TEST_3 TEST
+  791  nano
+  792  touch file{1..3}
+  793  mkdir HM 
+  794  mv file1 HM
+  795  cd HM/
+  796  ll
+  797  cd
+  798  ll
+  799  rm TEST{1..2}
+  800  cd T
+  801  ll
+  802  rm TEST
+  803  ll
+  804  rm TEST1
+  805  rm TEST_1
+  806  rm TEST_2
+  807  ll
+  808  rm file{2..3}
+  809  ll
+  810  rm -r HM
+  811  ll
+  812  clear
+  813  cat > file1
+  814  rm file1 
+  815  cat > file1
+  816  rm file1 
+  817  cat > file1
+  818  cat > file2
+  819  rm file2
+  820  cp file1 file2 
+  821  ln -s file1 file3
+  822  ln file1 file4
+  823  ls -ali
+  824  rm file1
+  825  cat file3
+  826  cat file4
+  827  ll
+  828  mv file2 test2
+  829  mv file3 test3
+  830  mv file4 test4
+  831  ln -s test2 TEST
+  832  mkdir TES1
+  833  mv TEST TEST1
+  834  mv TEST TES1
+  835  LL
+  836  ll
+  837  rmdir TES1/
+  838  ll
+  839  mkdir TEST1
+  840  mkdir HM
+  841  mv TEST HM
+  842  cd HM/
+  843  ll
+  844  cd
+  845  mv TEST HM
+  846  ln -s test2 TEST
+  847  mv TEST HM
+  848  mv test4 HM
+  849  ll
+  850  rm TEST1 
+  851  rm test2
+  852  rm test3
+  853  ll
+  854  rmdir HM
+  855  rmdir HM/
+  856  cd HM/
+  857  ll
+  858  rm TEST 
+  859  rm test4 
+  860  cd
+  861  rmdir HM/
+  862  ll
+  863  touch HM_2
+  864  nano HM_2 
+  865  tail /etc/passwd
+  866  sudo tail /etc/passwd
+  867  nano
+  868  vim
+  869  ll
+  870  nano HM_2 
+  871  mkdir HM_3
+  872  ll
+  873  rmdir HM_3/
+  874  ll
+  875  touch HM_3
+  876  ll
+  877  nano HM_3
+  878  clear
+  879  ll
+  880  clear
+  881  echo "опрп"
+  882  touch HM_4
+  883  nano HM_4
+  884  ll
+  885  nano HM_4
+  886  clear
+  887  ./HM_4
+  888  sudo chmod 777 HM_4
+  889  ll
+  890  ./HM_4
+  891  clear
+  892  rm HM_4
+  893  ll
+  894  touch HM_4_1
+  895  nano HM_4_1 
+  896  ./HM_4_1
+  897  sudo chmod 777 HM_4_1
+  898  ./HM_4_1
+  899  ll
+  900  ./HM_4_1
+  901  nano HM_4_1 
+  902  touch HM_4_2
+  903  nano HM_4_2
+  904  sudo chmod 777 HM_4_2
+  905  ./HM_4_2
+  906  nano HM_4_1 
+  907  ./HM_4_1
+  908  ./HM_4_2
+  909  nano HM_4_2
+  910  дд
+  911  ll
+  912  rm HM_2
+  913  ll
+  914  clear
+  915  rm HM_4_1
+  916  rm HM_4_2
+  917  LL
+  918  ll
+  919  touch HM_4/task1.txt
+  920  touch HM_4 task1.txt
+  921  ll
+  922  cd HM_4
+  923  rm HM_4
+  924  ll
+  925  touch HM_4.txt
+  926  ll
+  927  nano HM_4.txt 
+  928  sudo chmod 777 HM_4.txt 
+  929  ./HM_4.txt 
+  930  /
+  931  /B
+  932  ./HM_4.txt 
+  933  touch ownersort.sh
+  934  ll
+  935  nano ownersort.sh 
+  936  ./ownersort.sh
+  937  sudo chmod 777 ownersort.sh 
+  938  ./ownersort.sh
+  939  nano ownersort.sh 
+  940  ./HM_4.txt 
+  941  nano HM_4
+  942  nano HM_4.txt 
+  943  ./HM_4.txt 
+  944  nano ownersort.sh 
+  945  ./ownersort.sh
+  946  ll
+  947  cd task1.txt
+  948  nano task1.txt 
+  949  rm task1.txt 
+  950  ll
+  951  sudo apt list Docker
+  952  sudo apt update
+  953  sudo nano /etc/apt/sources.list
+  954  ls -l
+  955  cd ~/Downloads/
+  956  cd ~/Documents/
+  957  ls -l
+  958  ls -l *.deb
+  959  ls -l * .deb
+  960  cd
+  961  ls -l * .deb
+  962  cd ~/Downloads
+  963  cd
+  964  cd~
+  965  cd ~
+  966  cd Downloads
+  967  cd
+  968  sudo cd ~/Documents/
+  969  cd ..
+  970  cd ~/D
+  971  cd ~/Documents/
+  972  ls -l
+  973  cd
+  974  /.
+  975  ..
+  976  cd ..
+  977  cd /
+  978  cd ~/Documents/
+  979  cd
+  980  cd ~/Documents/
+  981  cd
+  982  clear
+  983  sudo docker run hello-world
+  984  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg
+  985  echo "deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+  986  sudo apt update
+  987  sudo apt install docker-ce docker-ce-cli containerd.io
+  988  sudo docker run hello-world
+  989  clear
+  990  crontab -e
+  991  touch HM_5
+  992  ll
+  993  nano HM_5
+  994  ll
+  995  touch HM_6
+  996  ll
+  997  nano HM_6
+  998  touch HM_7
+  999  ll
+ 1000  nano HM_7
+ 1001  ll
+ 1002  touch HM_8
+ 1003  ll
+ 1004  rm HM_3
+ 1005  ll
+ 1006  rm HM_4.txt 
+ 1007  ll
+ 1008  rm HM_5
+ 1009  rm HM_6
+ 1010  ll
+ 1011  nano HM_8
+ 1012  ls -l
+ 1013  mkdir wordpress
+ 1014  cd wordpress
+ 1015  nano .env
+ 1016  nano .dockerignore
+ 1017  mkdir nginx-conf
+ 1018  nano nginx-conf/nginx.conf
+ 1019  sudo apt install docker.io
+ 1020  sudo apt install docker-compose
+ 1021  cd wordpress
+ 1022  nano docker-compose.yml 
+ 1023  sudo docker-compose up -d
+ 1024  cd wordpress
+ 1025  ll
+ 1026  cd
+ 1027  cd wordpress
+ 1028  nano .env
+ 1029  nano .dockerignore
+ 1030  nano nginx-conf/nginx.conf
+ 1031  cd
+ 1032  nano .dockerignore
+ 1033  sudo docker-compose up -d
+ 1034  cd wordpress/
+ 1035  nano docker-compose.yml 
+ 1036  sudo docker-compose up -d
+ 1037  cd
+ 1038  ll
+ 1039  cd wordpress/
+ 1040  ll
+ 1041  cd wordpress/
+ 1042  nano docker-compose.yml 
+ 1043  cd
+ 1044  rm HM_7
+ 1045  rm HM_8
+ 1046  ll
+ 1047  docker pull ramonvc/freegpt-webui
+ 1048  echo 'alias start_gpt="docker run -p 1338:1338 -d ramonvc/freegpt-webui"' >> ~/.bashrc
+ 1049  source .bashrc
+ 1050  start_gpt
+ 1051  docker pull ramonvc/freegpt-webui
+ 1052  echo 'alias start_gpt="docker run -p 1338:1338 -d ramonvc/freegpt-webui"' >> ~/.bashrc
+ 1053  source .bashrc
+ 1054  start_gpt
+ 1055  dial unix /var/run/docker.sock
+ 1056  docker pull ramonvc/freegpt-webui
+ 1057  sudo docker pull ramonvc/freegpt-webui
+ 1058  echo 'alias start_gpt="docker run -p 1338:1338 -d ramonvc/freegpt-webui"' >> ~/.bashrc
+ 1059  source .bashrc
+ 1060  start_gpt
+ 1061  sudo chat_gpt
+ 1062  ll
+ 1063  start_gpt
+ 1064  star_gpt
+ 1065  start_gpt
+ 1066  git clone https://github.com/EvgeniyElmanov/Toy-shop.git
+ 1067  git add
+ 1068  git init
+ 1069  git status
+ 1070  git add .gitignore 
+ 1071  git add Toy.java 
+ 1072  git add ToyStore
+ 1073  git add ToyStore.java 
+ 1074  git add ToyStoreApp.java 
+ 1075  git add toys_data.txt 
+ 1076  git status
+ 1077  git commit -m "Add ToyShop"
+ 1078  git push
+ 1079  git init
+ 1080  start_gpt
+ 1081  docker run -d --name my-mysql -e MYSQL_ROOT_PASSWORD=mysql -e MYSQL_USER=mysql -e MYSQL_PASSWORD=mysql mysql
+ 1082  sudo docker run -d --name my-mysql -e MYSQL_ROOT_PASSWORD=mysql -e MYSQL_USER=mysql -e MYSQL_PASSWORD=mysql mysql
+ 1083  docker stop ef01b3b63b9d913a5065e8e43dd7b7f1b85a6ed8b11fa93c3f3d1fcd0c4996d6
+ 1084  sudo docker stop ef01b3b63b9d913a5065e8e43dd7b7f1b85a6ed8b11fa93c3f3d1fcd0c4996d6
+ 1085  sudo docker run -d --name my-mysql -e MYSQL_ROOT_PASSWORD=mysql -e MYSQL_USER=mysql -e MYSQL_PASSWORD=mysql -p 3306:3306 mysql
+ 1086  sudo docker rm --force ef01b3b63b9d913a5065e8e43dd7b7f1b85a6ed8b11fa93c3f3d1fcd0c4996d6
+ 1087  sudo docker run -d --name my-mysql -e MYSQL_ROOT_PASSWORD=mysql -e MYSQL_USER=mysql -e MYSQL_PASSWORD=mysql -p 3306:3306 mysql
+ 1088  sudo docker run --name=mysql -d -p 3306:3306 mysql/mysql-server
+ 1089  sudo docker logs mysql
+ 1090  docker ps
+ 1091  sudo usermod -aG docker evgeniy
+ 1092  docker ps
+ 1093  sudo docker ps
+ 1094  sudo docker stop 5376abdb034b
+ 1095  sudo docker run -d --name my-mysql -e MYSQL_ROOT_PASSWORD=mysql -e MYSQL_USER=mysql -e MYSQL_PASSWORD=mysql -p 3306:3306 mysql
+ 1096  sudo docker run -d --name my-mysql1 -e MYSQL_ROOT_PASSWORD=mysql -e MYSQL_USER=mysql -e MYSQL_PASSWORD=mysql -p 3306:3306 mysql
+ 1097  sudo docker ps
+ 1098  sudo lsof -i :3306
+ 1099  sudo kill 1009
+ 1100  sudo docker run -d --name my-mysql1 -e MYSQL_ROOT_PASSWORD=mysql -e MYSQL_USER=mysql -e MYSQL_PASSWORD=mysql -p 3306:3306 mysql
+ 1101  sudo docker run -d --name my-mysql2 -e MYSQL_ROOT_PASSWORD=mysql -e MYSQL_USER=mysql -e MYSQL_PASSWORD=mysql -p 3306:3306 mysql
+ 1102  sudo systemctl start mysql
+ 1103  sudo lsof -i :3306
+ 1104  sudo kill 7462
+ 1105  sudo kill 7468
+ 1106  sudo systemctl start mysql
+ 1107  mysql -u root -p
+ 1108  sudo apt-get remove mysql-server
+ 1109  sudo apt-get install mysql-server
+ 1110  sudo systemctl start mysql
+ 1111  mysql -u root -p
+ 1112  sudo mysql_secure_installation
+ 1113  touch docker-compose.yml
+ 1114  ll
+ 1115  sudo systemctl stop mysql
+ 1116  docker-compose up -d
+ 1117  sudo docker-compose up -d
+ 1118  sudo docker-compose up -d
+ 1119  docker-compose up -d
+ 1120  sudo docker-compose up -d
+ 1121  start_gpt
+ 1122  sudo docker-compose up -d
+ 1123  USE mydatabase;
+ 1124  CREATE TABLE sales
+ 1125  ( 	id INT PRIMARY KEY AUTO_INCREMENT,; 	Age INT,; 	FirstName VARCHAR(20),
+ 1126  	LastName VARCHAR(20)
+ 1127  );
+ 1128  SELECT * FROM Customer;
+ 1129  INSERT INTO Customer (Age, FirstName, LastName)
+ 1130  VALUES
+ 1131  (18, 'EVGENIY', 'ELMANOV');
+ 1132  SELECT * FROM Customer;
+ 1133  sudo docker-compose up -d
+ 1134  start gpt
+ 1135  start_gpt
+ 1136  sudo docker-compose up -d
+ 1137  sudo apt update
+ 1138  ls /etc/apt/sources.list.d/
+ 1139  vi /etc/apt/sources.list.d/ubuntu-audio-dev-ubuntu-ppa-bionic.list
+ 1140  sudo apt update
+ 1141  apt-secure(8)
+ 1142  apt-secure
+ 1143  sudo apt-secure
+ 1144  sudo apt update
+ 1145  E
+ 1146  E:
+ 1147  deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable 
+ 1148  deb [arch=amd64] https://mirrors.ustc.edu.cn/docker-ce/linux/ubuntu focal stable
+ 1149  deb [arch=amd64] 
+ 1150  sudo sed -i 's/debian/ubuntu/g' /etc/apt/sources.list.d/docker.list
+ 1151  sudo apt update
+ 1152  sudo sed -i 's|docker.com/linux/debian|docker.com/linux/ubuntu|g' /etc/apt/sources.list
+ 1153  sudo apt update
+ 1154  sudo nano /etc/apt/sources.list.d/docker.list
+ 1155  chmod u+x install_docker.sh
+ 1156  ll
+ 1157  chmod u+x install_docker.sh
+ 1158  ./install_docker.sh
+ 1159  sudo apt update
+ 1160  sudo ./install_docker.sh
+ 1161  sudo apt update
+ 1162  docker
+ 1163  sudo apt-get update
+ 1164  sudo apt-get install ca-certificates curl gnupg
+ 1165  sudo apt update
+ 1166  sudo install -m 0755 -d /etc/apt/keyrings
+ 1167  curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+ 1168  sudo chmod a+r /etc/apt/keyrings/docker.gpg
+ 1169  echo   "deb [arch="$(dpkg --print-architecture)" signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu \
+ 1170    "$(. /etc/os-release && echo "$VERSION_CODENAME")" stable" |   sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+ 1171  sudo apt-get update
+ 1172  echo deb [arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu focal stable | sudo tee /etc/apt/sources.list.d/docker.list
+ 1173  sudo apt-get update
+ 1174  sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
+ 1175  sudo usermod -aG docker evgeniy
+ 1176  docker --version
+ 1177  docker compose --version
+ 1178  docker compose version
+ 1179  sudo apt update
+ 1180  sudo apt list --upgradable
+ 1181  sudo apt upgrade
+ 1182  google-chrome
+ 1183  telegramm
+ 1184  /usr/bin/flatpak run --branch=stable --arch=x86_64 --command=telegram-desktop --file-forwarding org.telegram.desktop -- @@u %u @@
+ 1185  pip install mysql-connector-python
+ 1186  sudo docker-compose up -d
+ 1187  sudo docker--compose up -d
+ 1188  docker-compose up -d
+ 1189  sudo apt install docker-compose
+ 1190  docker-compose up -d
+ 1191  sudo docker-compose up -d
+ 1192  mysql -u root -p
+ 1193  mysqld --skip-grant-tables &
+ 1194  mysql -u root
+ 1195  FLUSH PRIVILEGES;
+ 1196  ALTER USER 'root'@'localhost' IDENTIFIED BY 'Nasdaq21';
+ 1197  FLUSH PRIVILEGES;
+ 1198  mysql -u root -p
+ 1199  SELECT host, user, password, password_expired FROM mysql.user;
+ 1200  docker ps
+ 1201  mysql -u root -p
+ 1202  mysqld --skip-grant-tables &
+ 1203  mysql -u root -p
+ 1204  sudo mysql
+ 1205  sudo service mysql status
+ 1206  mysql -u root -p
+ 1207  sudo mysql
+ 1208  mysql -u root -p
+ 1209  docker images ps
+ 1210  docker ps
+ 1211  docker rm --force a2345a5bc8cd
+ 1212  docker ps
+ 1213  docker exec -it a2345a5bc8cd bin/bash
+ 1214  start_mysql
+ 1215  docker ps
+ 1216  docker exec -it 65b3c8ef14ea bin/bash
+ 1217  mysql -u root -p
+ 1218  docker exec -it 65b3c8ef14ea bin/bash
+ 1219  sudo mysql
+ 1220  sudo service mysql stop
+ 1221  sudo apt-get purge mysql-server mysql-client mysql-common mysql-server-core-* mysql-client-core-*
+ 1222  sudo rm -rf /etc/mysql /var/lib/mysql
+ 1223  sudo apt-get autoremove
+ 1224  sudo apt-get autoclean
+ 1225  mysql
+ 1226  ls /etc/mysql
+ 1227  ls /var/lib/mysql
+ 1228  start_mysql
+ 1229  docker exec -it 65b3c8ef14ea bin/bash
+ 1230  vim
+ 1231  rm -rf ~/.vim
+ 1232  rm -f ~/.vimrc
+ 1233  rm -f ~/.viminfo
+ 1234  rm -rf ~/.cache/vim
+ 1235  vim
+ 1236  start_mysql
+ 1237  git clone https://github.com/EvgeniyElmanov/Algoritm.git
+ 1238  git status
+ 1239  git add .idea/
+ 1240  git add HeapSort.java 
+ 1241  git status
+ 1242  git commit -m "add task heapsort"
+ 1243  git push
+ 1244  git status
+ 1245  git add Main.java 
+ 1246  git status
+ 1247  git commit -m "add fail Main"
+ 1248  git push
+ 1249  git clone https://github.com/EvgeniyElmanov/exception_java.git
+ 1250  git status
+ 1251  git add task_1
+ 1252  git add task_2
+ 1253  git add task_3
+ 1254  git status
+ 1255  git commit -m "add task_1,2,3"
+ 1256  git push
+ 1257  git status
+ 1258  git add UserinfoApp/
+ 1259  git status
+ 1260  git commit -m "add Project UserinfoApp"
+ 1261  git push
+ 1262  sudo sed -i -re 's/([a-z]{2}\.)?archive.ubuntu.com|security.ubuntu.com/old-releases.ubuntu.com/g' /etc/apt/sources.list
+ 1263  sudo apt update && sudo apt upgrade
+ 1264  vim --version
+ 1265  dpkg -l | grep vim
+ 1266  rm -rf ~/.vim
+ 1267  rm -rf ~/.vimrc
+ 1268  rm -rf ~/.vim
+ 1269  rm -rf ~/.vimrc
+ 1270  apt update
+ 1271  apt upgrade
+ 1272  apt install tzdata
+ 1273  dpkg-reconfigure tzdata
+ 1274  sudo dpkg-reconfigure tzdata
+ 1275  apt update && apt -y install ca-certificates wget net-tools gnupg
+ 1276  wget https://as-repository.openvpn.net/as-repo-public.asc -qO /etc/apt/trusted.gpg.d/as-repository.asc
+ 1277  sudo wget https://as-repository.openvpn.net/as-repo-public.asc -qO /etc/apt/trusted.gpg.d/as-repository.asc
+ 1278  lsb_release
+ 1279  lsb_release -a
+ 1280  echo "deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/as-repository.asc] http://as-repository.openvpn.net/as/debian jammy main">/etc/apt/sources.list.d/openvpn-as-repo.list
+ 1281  sudo echo "deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/as-repository.asc] http://as-repository.openvpn.net/as/debian jammy main">/etc/apt/sources.list.d/openvpn-as-repo.list
+ 1282  echo "deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/as-repository.asc] http://as-repository.openvpn.net/as/debian focal main">/etc/apt/sources.list.d/openvpn-as-repo.list
+ 1283  sudo echo "deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/as-repository.asc] http://as-repository.openvpn.net/as/debian focal main">/etc/apt/sources.list.d/openvpn-as-repo.list
+ 1284  apt install -y bridge-utils dmidecode iptables iproute2 libc6 libffi7 libgcc-s1 liblz4-1 liblzo2-2 libmariadb3 libpcap0.8 libssl3 libstdc++6 libsasl2-2 libsqlite3-0 net-tools python3-pkg-resources python3-migrate python3-sqlalchemy python3-mysqldb python3-ldap3 sqlite3 zlib1g python3-netaddr python3-arrow python3-lxml python3-constantly python3-hyperlink python3-automat python3-service-identity python3-cffi python3-defusedxml libcap-ng0 libnl-3-200 libnl-genl-3-200  
+ 1285  dpkg -i openvpn-as-bundled-clients-28.deb openvpn-as_2.12.1-bc070def-Ubuntu22_amd64.deb
+ 1286  sudo dpkg -i openvpn-as-bundled-clients-28.deb openvpn-as_2.12.1-bc070def-Ubuntu22_amd64.deb
+ 1287  apt update && apt -y install ca-certificates wget net-tools gnupgh
+ 1288  apt update && apt -y install ca-certificates wget net-tools gnupg
+ 1289  wget https://as-repository.openvpn.net/as-repo-public.asc -qO /etc/apt/trusted.gpg.d/as-repository.asc
+ 1290  sudo wget https://as-repository.openvpn.net/as-repo-public.asc -qO /etc/apt/trusted.gpg.d/as-repository.asc
+ 1291  echo "deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/as-repository.asc] http://as-repository.openvpn.net/as/debian jammy main">/etc/apt/sources.list.d/openvpn-as-repo.list
+ 1292  sudo echo "deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/as-repository.asc] http://as-repository.openvpn.net/as/debian jammy main">/etc/apt/sources.list.d/openvpn-as-repo.list
+ 1293  apt update
+ 1294  apt install -y bridge-utils dmidecode iptables iproute2 libc6 libffi7 libgcc-s1 liblz4-1 liblzo2-2 libmariadb3 libpcap0.8 libssl3 libstdc++6 libsasl2-2 libsqlite3-0 net-tools python3-pkg-resources python3-migrate python3-sqlalchemy python3-mysqldb python3-ldap3 sqlite3 zlib1g python3-netaddr python3-arrow python3-lxml python3-constantly python3-hyperlink python3-automat python3-service-identity python3-cffi python3-defusedxml libcap-ng0 libnl-3-200 libnl-genl-3-200  
+ 1295  dpkg -i openvpn-as-bundled-clients-28.deb openvpn-as_2.12.1-bc070def-Ubuntu22_amd64.deb
+ 1296  sudo dpkg -i openvpn-as-bundled-clients-28.deb openvpn-as_2.12.1-bc070def-Ubuntu22_amd64.deb
+ 1297  apt update && apt -y install ca-certificates wget net-tools gnupg
+ 1298  wget https://as-repository.openvpn.net/as-repo-public.asc -qO /etc/apt/trusted.gpg.d/as-repository.asc
+ 1299  sudo wget https://as-repository.openvpn.net/as-repo-public.asc -qO /etc/apt/trusted.gpg.d/as-repository.asc
+ 1300  echo "deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/as-repository.asc] http://as-repository.openvpn.net/as/debian jammy main">/etc/apt/sources.list.d/openvpn-as-repo.list
+ 1301  sudo echo "deb [arch=amd64 signed-by=/etc/apt/trusted.gpg.d/as-repository.asc] http://as-repository.openvpn.net/as/debian jammy main">/etc/apt/sources.list.d/openvpn-as-repo.list
+ 1302  lsb_release -a
+ 1303  dpkg -l | grep vim
+ 1304  rm -rf ~/.vim
+ 1305  rm -rf ~/.vimrc
+ 1306  vim
+ 1307  vim --version
+ 1308  start mysql
+ 1309  start - mysql
+ 1310  start -mysql
+ 1311  start --mysql
+ 1312  start gpt
+ 1313  start-- gpt
+ 1314  start gpt
+ 1315  start ПЗЕ
+ 1316  clear
+ 1317  start -gpt
+ 1318  start --gpt
+ 1319  start-gpt
+ 1320  start--gpt
+ 1321  start-- gpt
+ 1322  start -- gpt
+ 1323  start --gpt
+ 1324  run gpt
+ 1325  run - gpt
+ 1326  run --gpt
+ 1327  gpt run
+ 1328  gpt --run
+ 1329  gpt -run
+ 1330  run sql
+ 1331  start_mysql
+ 1332  DROP TABLE animals
+ 1333  javac DomesticAnimalRegistry.java
+ 1334  java DomesticAnimalRegistry
+ 1335  cat >Pets.txt
+ 1336  cat >PackAnimals.txt
+ 1337  ls
+ 1338  cat Pets PackAnimals >HumanFriends.txt
+ 1339  cat Pets PackAnimals HumanFriends.txt
+ 1340  cat Pets PackAnimals >HumanFriends.txt
+ 1341  ls
+ 1342  mkdir animals
+ 1343  mv HumanFriends.txt animals/
+ 1344  cd animals/
+ 1345  ls
+ 1346  sudo apt install mysql-server mysql-client
+ 1347  sudo systemctl status mysql
+ 1348  cd ..
+ 1349  dpkg -i mysql-connector-j_8.1.0-1ubuntu22.04_all.deb
+ 1350  sudo dpkg -i mysql-connector-j_8.1.0-1ubuntu22.04_all.deb
+ 1351  apt search xfce4
+ 1352  apt download xfce4
+ 1353  sudo dpkg -i xfce4.deb
+ 1354  ды
+ 1355  ls
+ 1356  sudo dpkg -i /home/evgeniy/xfce4.deb
+ 1357  ls /home/evgeniy/xfce4.deb
+ 1358  sudo dpkg -i ~/Загрузки/xfce4.deb
+ 1359  cd ~/Загрузки
+ 1360  sudo dpkg -i xfce4.deb
+ 1361  ~ cd
+ 1362  cd ..
+ 1363  tar -xzvf xfce4.tar.gz
+ 1364  sudo apt update
+ 1365  sudo apt install xfce4
+ 1366  sudo dpkg -i xfce4-package1.deb
+ 1367  sudo dpkg -i xfce4_4.16_all.deb
+ 1368  sudo dpkg -i gir1.2-libxfce4util-1.0_4.16.0-1_amd64.deb
+ 1369  wget http://archive.ubuntu.com/ubuntu/pool/universe/x/xfce4/xfce4_4.14.1.1_amd64.deb -P ~/Загрузки
+ 1370  sudo apt update
+ 1371  sudo apt install xfce4
+ 1372  ls
+ 1373  sudo apt remove xfce4
+ 1374  dpkg -i mysql-connector-j_8.1.0-1ubuntu22.04_all.deb
+ 1375  sudo dpkg -i mysql-connector-j_8.1.0-1ubuntu22.04_all.deb
+ 1376  wget http://archive.ubuntu.com/ubuntu/pool/universe/h/htop/htop_3.1.1-2build2_amd64.deb -P ~/Загрузки
+ 1377  wget http://archive.ubuntu.com/ubuntu/pool/main/c/curl/curl_7.68.0-1ubuntu2_amd64.deb -P ~/Загрузки
+ 1378  sudo dpkg -i ~/Загрузки/curl_7.68.0-1ubuntu2_amd64.deb
+ 1379  sudo apt update
+ 1380  sudo apt install libcurl4
+ 1381  sudo dpkg -i ~/Загрузки/curl_7.68.0-1ubuntu2_amd64.deb
+ 1382  sudo apt remove curl
+ 1383  wget http://archive.ubuntu.com/ubuntu/pool/universe/h/htop/htop_3.1.1-2build2_amd64.deb -P ~/Загрузки
+ 1384  wget https://dev.mysql.com/get/Downloads/Connector-J/mysql-connector-java_8.0.26-1ubuntu18.04_all.deb -P ~/Загрузки
+ 1385  sudo dpkg -i ~/Загрузки/mysql-connector-java_8.0.26-1ubuntu18.04_all.deb
+ 1386  dpkg -l | grep mysql-connector-java
+ 1387  sudo dpkg -r mysql-connector-java
+ 1388  5. История команд в терминале Ubuntu
+ 1389  В формате: Файла с ФИО, датой сдачи, номером группы(или потока)
+ 1390  history
+ 1391  history > my_commands.txt
